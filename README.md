@@ -4,7 +4,6 @@ This project presents a robust AI-driven **multimodal framework** that integrate
 
 ### 👨‍💻 Authors
 - Aayush Paturkar – Computer Science Engineering, Ramdeobaba University  
-- Snehal Laddha – Electronics Department, Ramdeobaba University  
 - Sarthak Khutafale – Computer Science Engineering, Ramdeobaba University  
 
 ---
