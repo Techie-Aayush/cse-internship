@@ -1,1 +1,1 @@
-# cse-internship
+# Cse-Internship
