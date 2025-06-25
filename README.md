@@ -92,5 +92,18 @@ Our model outperforms several state-of-the-art benchmarks in skin lesion diagnos
 
 ---
 
-## 📜 Citation (if used in academic work)
+---
+
+## 🛠 Tech Stack
+
+- Python
+- TensorFlow / Keras / PyTorch
+- OpenCV, NumPy, Pandas
+- Matplotlib, Seaborn (for visualizations)
+
+---
+
+## 📬 Contact
+
+- 📧 paturkaraa_1@rknec.edu
 
