@@ -105,4 +105,4 @@ Our model outperforms several state-of-the-art benchmarks in skin lesion diagnos
 ## 📬 Contact
 
 - 📧 paturkaraa_1@rknec.edu
-
+- 📧 khutafaless@rknec.edu
